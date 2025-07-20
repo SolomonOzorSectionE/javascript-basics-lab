@@ -7,10 +7,10 @@ console.log("Student Age:", studentAge);
 console.log("Is Enrolled:", isEnrolled);
 
 let string = "oranges";
-let numberExample = 10;
-let booleanExample = false;
-let arrayExample = ["apples", "bananas", "cherries"];
-let objectExample = {
+let number = 10;
+let boolean = false;
+let array = ["apples", "bananas", "cherries"];
+let object = {
     firstName: "John",
     lastName: "Doe"
 };
